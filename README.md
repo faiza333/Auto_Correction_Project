@@ -1,10 +1,8 @@
 # Auto_Correction_Project
 
+## 1- Build statistical model that can correct only one word using 4 processes:
+## delete, switch, replace, insert
 
-This is my final project at TIT, this what we used in the project
+## 2- use n-gram model so we could correcta complete science 
 
-1- statisical model 
-
-2- n_gram to to improve the result 
-
-3- finnally we used T5 model 
+## 3- fine-tuned T5 model with JFLEG dataset.
